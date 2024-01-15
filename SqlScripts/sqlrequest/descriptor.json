@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "dff8b0d6-1251-8597-0b9d-da2c5b1ecc90",
+    "Name": "sqlrequest",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1702052970000)\/",
+    "DependsOn": []
+  }
+}

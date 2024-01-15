@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d2fce213-f62b-4a02-a7d5-2a85f1daa828",
+    "Name": "UsrMainInFolder",
+    "ModifiedOnUtc": "\/Date(1699274175000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Кулинария в группе"
+  }
+}

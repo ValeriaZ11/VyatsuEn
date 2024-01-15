@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b48903f6-24a3-4c69-a13a-6ae32536e946",
+    "Name": "UsrMa",
+    "ModifiedOnUtc": "\/Date(1700482493000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Ресторанные блюда"
+  }
+}

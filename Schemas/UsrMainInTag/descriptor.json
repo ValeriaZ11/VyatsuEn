@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "36cbf3a8-8281-432c-8a45-0877eaa7fa22",
+    "Name": "UsrMainInTag",
+    "ModifiedOnUtc": "\/Date(1699274181000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Кулинария"
+  }
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Ресторанные блюда" />
+			<Item Name="Columns.UsrBoolean1.Caption" Value="Наличие" />
+			<Item Name="Columns.UsrDatetime1.Caption" Value="Дата/Время 1" />
+			<Item Name="Columns.UsrInteger1.Caption" Value="Количество блюд" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrUsrMain.Caption" Value="Кулинария" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

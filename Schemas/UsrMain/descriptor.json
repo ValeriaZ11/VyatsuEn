@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4cb1390c-5a10-497e-af07-59e1933abde7",
+    "Name": "UsrMain",
+    "ModifiedOnUtc": "\/Date(1699274492000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Кулинария"
+  }
+}

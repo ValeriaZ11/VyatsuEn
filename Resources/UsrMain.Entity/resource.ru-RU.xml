@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Кулинария" />
+			<Item Name="Columns.UsrBoolean1.Caption" Value="Присутствие блюда" />
+			<Item Name="Columns.UsrDatetime1.Caption" Value="Дата/Время приготовления" />
+			<Item Name="Columns.UsrInteger1.Caption" Value="Количество продукции" />
+			<Item Name="Columns.UsrLookup1.Caption" Value="Ингредиенты" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrString1.Caption" Value="Название блюда" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

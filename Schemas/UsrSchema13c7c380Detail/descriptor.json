@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "cd073032-cd21-471e-ab20-b5df61b405c2",
+    "Name": "UsrSchema13c7c380Detail",
+    "ModifiedOnUtc": "\/Date(1700482400000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Ресторанные блюда\""
+  }
+}

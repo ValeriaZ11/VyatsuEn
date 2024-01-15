@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "7f39caeb-6794-4c4e-be85-19e213039842",
+    "Name": "UsrMain1Page",
+    "ModifiedOnUtc": "\/Date(1699274162000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Кулинария\""
+  }
+}
